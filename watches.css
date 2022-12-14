@@ -215,7 +215,7 @@ body{
     }
     .header-img-wrapper {
         width: 185px;
-        margin-left: -356px;
+        margin-left: -370px;
         margin-top: 10px;
     }
     .header-description {
@@ -241,7 +241,7 @@ body{
         font-size: 25px;
     }
     .items-wrapper {
-        text-align: center;
+        text-align: center; 
     }
     .items-wrapper:hover {
         width: 250px;

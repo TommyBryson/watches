@@ -202,3 +202,57 @@ body{
 .items-wrapper {
     margin-top:50px;
 }
+
+
+@media (max-width: 800px) {
+    .header-title {
+        margin-left: -120px;
+    }
+    .header-subtitle {
+        font-size: 50px;
+        margin-top: -100px;
+        margin-left: -120px;
+    }
+    .header-img-wrapper {
+        width: 175px;
+        margin-left: -360px;
+        margin-top: 10px;
+    }
+    .header-description {
+        margin-top: -90px;
+        margin-left: -128px;
+        font-size: 15px;
+    }
+    .buy-link {
+        height: 80px;
+        font-size: 16px;
+        width: 170px;
+        margin-left: -97px;
+    }
+    .price {
+        height: 80px;
+        font-size: 16px;
+        width: 50%;
+    }
+    .item-title {
+        font-size :50px;
+    }
+    .item-description {
+        font-size: 25px;
+    }
+    .items-wrapper {
+        text-align: center;
+    }
+    .items-wrapper:hover {
+        width: 300px;
+    }
+    .item-img-wrapper:hover {
+        width: 300px;
+    }
+    .product-description-title {
+        font-size: 50px;
+    }
+    .product-description {
+        font-size: 22px;
+    }
+}

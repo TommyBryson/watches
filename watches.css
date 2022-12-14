@@ -241,11 +241,11 @@ body{
         text-align: center; 
     }
     .items-wrapper:hover {
-        margin-left: 50%;
+        margin-left: 10px;
         width: 250px;
     }
     .item-img-wrapper:hover {
-        margin-left: 50%;
+        margin-left: 10px;
         width: 250px;
     }
     .product-description-title {

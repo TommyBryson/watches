@@ -241,10 +241,10 @@ body{
         text-align: center; 
     }
     .items-wrapper:hover {
-        display: none;
+        
     }
     .item-img-wrapper:hover {
-        display: none;
+
     }
     .product-description-title {
         font-size: 50px;

@@ -238,15 +238,16 @@ body{
         font-size :50px;
     }
     .item-description {
-        font-size: 25px;
     }
     .items-wrapper {
         text-align: center; 
     }
     .items-wrapper:hover {
+        margin-left: 150px;
         width: 250px;
     }
     .item-img-wrapper:hover {
+        margin-left: 150px;
         width: 250px;
     }
     .product-description-title {

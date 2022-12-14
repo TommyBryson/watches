@@ -209,25 +209,25 @@ body{
         margin-left: -120px;
     }
     .header-subtitle {
-        font-size: 50px;
+        font-size: 70px;
         margin-top: -100px;
         margin-left: -120px;
     }
     .header-img-wrapper {
-        width: 175px;
-        margin-left: -360px;
+        width: 185px;
+        margin-left: -356px;
         margin-top: 10px;
     }
     .header-description {
         margin-top: -90px;
         margin-left: -128px;
-        font-size: 15px;
+        font-size: 19px;
     }
     .buy-link {
         height: 80px;
         font-size: 16px;
         width: 170px;
-        margin-left: -97px;
+        margin-left: -79px;
     }
     .price {
         height: 80px;
@@ -244,10 +244,10 @@ body{
         text-align: center;
     }
     .items-wrapper:hover {
-        width: 300px;
+        width: 250px;
     }
     .item-img-wrapper:hover {
-        width: 300px;
+        width: 250px;
     }
     .product-description-title {
         font-size: 50px;
